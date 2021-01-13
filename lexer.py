@@ -31,7 +31,7 @@ reserved = {
    'kaynf'     : 'KAYNF',
    'makaynchf' : 'MAKAYNCHF',
    # Boolean values
-   's7i7'      : 'S7I7,
+   's7i7'      : 'S7I7',
    'khate2'    : 'KHATE2',
    # Loops
    '3la9bel'   : '3LA9BEL',
