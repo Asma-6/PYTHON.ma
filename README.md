@@ -41,7 +41,7 @@ Comparative Operators:\
 	 ( ( = | ! | < | > ) = ) | > | <
 
 Keywords:\
-	"Any string that is part of the syntax and can’t be used as an identifier, like : 9ra, kteb, ilakan, …" 
+	"Any string that is part of the syntax and can’t be used as an identifier, like : _9ra, kteb, ilakan, …" 
   
 
 ### `PROGRAMMING SIDE`
@@ -53,7 +53,7 @@ For example:
 def p_lm3rofin(p):\
 '''  lm3rofin : t3rif\
               | kteb\
-              | 9ra\
+              | _9ra\
               | ma7ed\
               | bnisbal\
               | ilakan\
@@ -64,7 +64,7 @@ p[0] = p[1]
 
 ### `SOME MEANINGS`
  « kteb » means « print »\
- « 9ra » means « input »\
+ « _9ra » means « input »\
  « ma7ed » means « while »\
  « bnisbal » means « for »\
  « ilakan » means « if without else »\
