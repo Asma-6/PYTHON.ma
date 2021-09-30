@@ -41,14 +41,14 @@ Comparative Operators:\
 	 ( ( = | ! | < | > ) = ) | > | <
 
 Keywords:\
-	"Any string that is part of the syntax and can’t be used as an identifier, like : qra,ktb,khrj,ilakan,…" 
+	"Any string that is part of the syntax and can’t be used as an identifier, like : 9ra, kteb, ilakan ,…" 
   
 
 ### `PRPGRAMMING SIDE`
 After building the Lexer in Darija Language, the parser was implemented also, by using the rules and the best way to construct a meaningful phrase.\
 For example:
 
---> This function simply tells the program that these are the known identifiers, that are not allowed to be as variables:\
+--> This function simply tells the program that these are the known identifiers, that are not allowed to be as variables:
 
 def p_lm3rofin(p):\
 '''  lm3rofin : t3rif\
@@ -63,12 +63,12 @@ p[0] = p[1]
 
 
 ### `SOME MEANINGS`
-  « kteb » means « print »
-	« 9ra » means « input »
-	« ma7ed » means « while »
-	« bnisbal » means « for »
-	« ilakan » means « if without else »
-	« ila » means « if with else »
+ « kteb » means « print »\
+ « 9ra » means « input »\
+ « ma7ed » means « while »\
+ « bnisbal » means « for »\
+ « ilakan » means « if without else »\
+ « ila » means « if with else »\
 
 
 
