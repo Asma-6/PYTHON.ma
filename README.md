@@ -6,7 +6,7 @@ PYTHON.ma is a simplified Python compiler in Darija created using Lex and Yacc f
 This project was a brave idea, and an innovative one, it comes to solve the problem of people who has difficulties dealing with other languages besides their natal language. It is a way to encourage the young Moroccan people to code without the struggle of having a rich French or English vocabulary, or at least a good beginning for kids, to learn how to code from an early age, to help their mind stay awake, and learn how to solve problems on their own.
 
 
-### REGEX
+### 'REGEX'
 First thing, these are the regex used all along this project :
 
 Variable’s Name:\
