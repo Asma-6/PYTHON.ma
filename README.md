@@ -1,5 +1,6 @@
 # PYTHON.ma "PYTHON maghribi"
-PYTHON.ma is a simplified Python compiler in Darija created using Lex and Yacc from PLY library.
+PYTHON.ma is a simplified Python compiler in Darija created using Lex and Yacc from PLY library. 
+![image](https://user-images.githubusercontent.com/77125092/135387880-f4e27a7c-1cd4-4f62-9d25-a46d28f5dab5.png)
 
 
-![3-diploma-3-opti](https://user-images.githubusercontent.com/77125092/135387803-95fe6a30-21d3-482d-966d-c46ddef30abe.jpg)
+
