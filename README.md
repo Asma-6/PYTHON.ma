@@ -75,11 +75,14 @@ p[0] = p[1]
 ## II- How to use it :
 1- At first, you should install the PLY (Python Lex-Yacc), from here: https://www.dabeaz.com/ply/. \
 2- After having the folder PLY in your local space, you clone this repository from the command line with:
-git clone https://github.com/Asma-6/PYTHON.ma.git or download the zip code.\
+`git clone https://github.com/Asma-6/PYTHON.ma.git` or download the zip code.\
 3- Run the file parser.py wich will compile the written code in codeSource.py "it is just a test of some darija instructions".\
 4- You can now edit the source code with your own instructions, just pay attention to use the declared identifiers in the lexer.py.
 
 
-                                    :D ENJOY IT :D
+<p align="center">
+    🤩🤩🤩 ENJOY IT 🤩🤩🤩
+</p>
+                                    	
   
 
