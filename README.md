@@ -1,7 +1,5 @@
 # PYTHON.ma "PYTHON maghribi"
-<p align="center">
 ![image](https://user-images.githubusercontent.com/77125092/135387880-f4e27a7c-1cd4-4f62-9d25-a46d28f5dab5.png)
-</p>
    
 PYTHON.ma is a simplified Python compiler in Darija created using Lex and Yacc from PLY library (the implementation of lex and yacc parsing tools for Python).
 
@@ -76,14 +74,14 @@ p[0] = p[1]
 
 ## II- How to use it :
 1- At first, you should install the PLY (Python Lex-Yacc), from here: https://www.dabeaz.com/ply/. \
-2- After having the folder PLY in your local space, you clone this repository from the command line with:
+2- After having the folder PLY in your local space, you clone this repository from the command line with: \
 `git clone https://github.com/Asma-6/PYTHON.ma.git` or download the zip code.\
 3- Run the file parser.py wich will compile the written code in codeSource.py "it is just a test of some darija instructions".\
 4- You can now edit the source code with your own instructions, just pay attention to use the declared identifiers in the lexer.py.
 
 
 <p align="center">
-    🌟🌟🌟 ## ENJOY IT 🌟🌟🌟
+    🌟🌟🌟 ENJOY IT 🌟🌟🌟
 </p>
                                     	
   
