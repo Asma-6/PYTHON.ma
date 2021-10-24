@@ -1,5 +1,7 @@
 # PYTHON.ma "PYTHON maghribi"
+<p align="center">
 ![image](https://user-images.githubusercontent.com/77125092/135387880-f4e27a7c-1cd4-4f62-9d25-a46d28f5dab5.png)
+</p>
    
 PYTHON.ma is a simplified Python compiler in Darija created using Lex and Yacc from PLY library (the implementation of lex and yacc parsing tools for Python).
 
@@ -81,7 +83,7 @@ p[0] = p[1]
 
 
 <p align="center">
-    🤩🤩🤩 ENJOY IT 🤩🤩🤩
+    🌟🌟🌟 ## ENJOY IT 🌟🌟🌟
 </p>
                                     	
   
