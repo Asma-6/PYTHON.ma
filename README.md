@@ -80,6 +80,6 @@ git clone https://github.com/Asma-6/PYTHON.ma.git or download the zip code.\
 4- You can now edit the source code with your own instructions, just pay attention to use the declared identifiers in the lexer.py.
 
 
-                                    :D ENJOY THE APP :D
+                                    :D ENJOY IT :D
   
 
